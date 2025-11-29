@@ -3,13 +3,11 @@ title: ADA Template Website
 description: A template website for ADA
 show_downloads: True
 navigation:
-  - title: Home
-    url: index.md
   - title: Dataset
-    url: dataset.md
+    url: dataset
   - title: Methods
-    url: methods.md
+    url: methods
   - title: Results
-    url: results.md
+    url: results
   - title: Interactive Demo
-    url: demo.md
+    url: demo
