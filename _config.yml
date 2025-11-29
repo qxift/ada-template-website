@@ -4,6 +4,12 @@ description: A template website for ADA
 show_downloads: True
 navigation:
   - title: Home
-    url: /
-  - title: Example
-    url: example
+    url: index.md
+  - title: Dataset
+    url: dataset.md
+  - title: Methods
+    url: methods.md
+  - title: Results
+    url: results.md
+  - title: Interactive Demo
+    url: demo.md
